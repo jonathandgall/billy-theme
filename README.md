@@ -25,4 +25,4 @@ with ghost.
 > [Gscan] Checks Ghost themes for errors, deprecations, best practices and looks
 > to see which features are supported. Aims to generate a compatibility report
 > and feature listing for themes.
-# billy-theme
+# billy-theme_Anastasia
