@@ -26,3 +26,5 @@ with ghost.
 > to see which features are supported. Aims to generate a compatibility report
 > and feature listing for themes.
 # billy-theme
+
+-project member: Dominika
