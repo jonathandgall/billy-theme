@@ -1,4 +1,4 @@
-# Billy Ghost Theme
+# Billy Ghost Theme !
 
 Started from the the project scaffold for building [Ghost](http://github.com/tryghost/ghost/)
 themes using Gulp, LibSass, & Autoprefixer.
