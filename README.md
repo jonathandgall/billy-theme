@@ -1,6 +1,6 @@
-# Ghost Theme Template
+# Billy Ghost Theme
 
-A project scaffold for building [Ghost](http://github.com/tryghost/ghost/)
+Started from the the project scaffold for building [Ghost](http://github.com/tryghost/ghost/)
 themes using Gulp, LibSass, & Autoprefixer.
 
 ## Features
@@ -25,4 +25,3 @@ with ghost.
 > [Gscan] Checks Ghost themes for errors, deprecations, best practices and looks
 > to see which features are supported. Aims to generate a compatibility report
 > and feature listing for themes.
-# billy-theme
