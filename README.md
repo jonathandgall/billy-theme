@@ -29,3 +29,4 @@ with ghost.
 # Project Members
 [Anastasia](https://github.com/anastasiaplacec)
 [Dominika](https://github.com/dominikasularz)
+[Jay](https://github.com/odajay)
