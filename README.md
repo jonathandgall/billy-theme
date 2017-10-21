@@ -3,7 +3,9 @@
 Started from the the project scaffold for building [Ghost](http://github.com/tryghost/ghost/)
 themes using Gulp, LibSass, & Autoprefixer.
 
-## Features
+## Customization
+
+## Features 
 
 - Gulp integration
 - Blazing fast LibSass
